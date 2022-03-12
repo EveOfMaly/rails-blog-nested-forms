@@ -16,6 +16,8 @@ group :development, :test do
   gem "database_cleaner"
   gem "pry-byebug"
   gem "rspec-rails"
+  gem 'awesome_print'
+  gem 'table_print'
 end
 
 group :test do
